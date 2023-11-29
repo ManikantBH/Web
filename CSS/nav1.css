@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+
+div {
+    background-color: black;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+div a {
+    color: white;
+    text-decoration: none;
+    padding: 14px 16px;
+    text-align: center;
+}
+
+div a:hover {
+    background-color: gray;
+    color: black;
+}
+
+
+.brand {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.search-button {
+    margin-left: auto;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+
+div {
+    background-color: blue;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+div a {
+    color: white;
+    text-decoration: none;
+    padding: 14px 16px;
+    text-align: center;
+}
+
+div a:hover {
+    background-color: gray;
+    color: black;
+}
+
+
+.brand {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.search-button {
+    margin-left: auto;
+}
