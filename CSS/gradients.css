@@ -1,0 +1,39 @@
+.flag{
+    height: 400px;
+    width: 400px;
+    background-image: linear-gradient(gold,black);
+}
+.flag1{
+    height: 400px;
+    width: 400px;
+    background-image: repeating-linear-gradient(lightpink,white 10%,powderblue 20%);
+}
+.flag2{
+    height: 400px;
+    width: 400px;
+    background-image: radial-gradient(ellipse,gold,white,powderblue,lightgrey);
+}
+.flag3{
+    height: 400px;
+    width: 400px;
+    background-image: repeating-radial-gradient(ellipse,powderblue,white 20px);
+}
+.flag4{
+    height: 400px;
+    width: 400px;
+    background-image: conic-gradient(powderblue 25%,lightyellow 25%,lightyellow 50%,lightpink 50%,lightpink 75%,lightgrey 75%);
+}
+.flag5{
+    height: 400px;
+    width: 400px;
+    background-image: repeating-conic-gradient(lightyellow 25%,maroon 50%);
+    border-radius: 50%;
+}
+.flag6{
+    height: 400px;
+    width: 400px;
+    background-image: repeating-conic-gradient(white,blue 4%);
+    border-radius: 50%;
+}
+
+
